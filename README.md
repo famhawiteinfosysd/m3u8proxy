@@ -17,7 +17,7 @@ Host your own instance of M3U8-Proxy on vercel
 
 Host your own instance of M3U8-Proxy on Render.
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/itzzzme/m3u8proxy)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/famhawiteinfosysd/m3u8proxy)
 
 ### Cloudflare-worker
  - Create an example starter worker in your cloudflare account
